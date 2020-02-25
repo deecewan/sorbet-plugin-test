@@ -1,0 +1,2 @@
+triggers:
+  method_call: sorbet/plugins/method_call.rb

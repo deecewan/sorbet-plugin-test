@@ -1,0 +1,3 @@
+--dir
+.
+--dsl-plugins=sorbet/triggers.yml
